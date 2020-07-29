@@ -1,0 +1,20 @@
+npm install redux --save
+npm run eject 
+npm install express --save
+npm install -g nodemon 
+npm install mongoose --save
+npm install antd-mobile --save
+npm install babel-plugin-import --save 
+npm install redux --save
+npm install redux-thunk --sava 
+npm install react-redux --save
+
+
+npm install babel-plugin-transform-decorators-legacy --save-dev   装饰器插件 
+npm install react-router-dom --save
+npm install axios --save   
+npm install cookie-parser --save
+还得安装mongodb
+你用的库我就不说了哈
+
+服务器运行server.js
