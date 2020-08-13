@@ -1,13 +1,8 @@
 import axios from "axios";
-import {getRedirectPath} from '../util'
-
+import {getRedirectPath} from '../utils/util'
+import { AUTH_SUCCESS, LOAD_DATA, ERROR_MSG, LOGOUT } from './types'
 // const REGISTER_SUCCESS = 'REGISTER_SUCCESS'
 // const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
-//用户操作成功，包括登录、注册、修改
-const AUTH_SUCCESS = 'AUTH_SUCCESS'
-const LOAD_DATA = 'LOAD_DATA'
-const ERROR_MSG = 'ERROR_MSG'
-const LOGOUT = 'LOGOUT'
 
 const initState={
     redirectTo:'',

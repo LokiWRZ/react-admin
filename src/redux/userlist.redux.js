@@ -1,6 +1,5 @@
 import axios from'axios'
-
-const USER_LIST = 'USER_LIST'
+import { USER_LIST } from './types'
 
 const initState = {
     userlist:[]

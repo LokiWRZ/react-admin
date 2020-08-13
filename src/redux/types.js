@@ -1,0 +1,6 @@
+export const AUTH_SUCCESS = 'AUTH_SUCCESS'
+export const LOAD_DATA = 'LOAD_DATA'
+export const ERROR_MSG = 'ERROR_MSG'
+export const LOGOUT = 'LOGOUT'
+export const USER_LIST = 'USER_LIST'
+export const SET_CURRENT_USER = 'SET_CURRENT_USER'
